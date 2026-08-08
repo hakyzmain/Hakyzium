@@ -1,13 +1,13 @@
-<p align="center">
+﻿<p align="center">
   <img src="icon.png" alt="Hakyzium" width="128" height="128" />
 </p>
 
 <h1 align="center">Hakyzium</h1>
 
-<p align="center">Свой кастомизированный роблокс клиент</p>
+<p align="center">РЎРІРѕР№ РєР°СЃС‚РѕРјРёР·РёСЂРѕРІР°РЅРЅС‹Р№ СЂРѕР±Р»РѕРєСЃ РєР»РёРµРЅС‚</p>
 
-<p align="center"><strong>V1.3.6 (P5vM8cRt)</strong></p>
+<p align="center"><strong>V1.3.7 (H7kQ4nWp)</strong></p>
 
 <p align="center">
-  <a href="https://github.com/hakyzmain/Hakyzium/releases/latest">Скачать</a>
+  <a href="https://github.com/hakyzmain/Hakyzium/releases/latest">РЎРєР°С‡Р°С‚СЊ</a>
 </p>
