@@ -6,7 +6,7 @@
 
 <p align="center">Свой кастомизированный роблокс клиент</p>
 
-<p align="center"><strong>V1.3.11 (T6kR9mVw)</strong></p>
+<p align="center"><strong>V1.3.12 (Y2nH5qLp)</strong></p>
 
 <p align="center">
   <a href="https://github.com/hakyzmain/Hakyzium/releases/latest">Скачать</a>
