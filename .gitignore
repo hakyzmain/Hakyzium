@@ -1,0 +1,11 @@
+publish/
+publish/**
+bin/
+obj/
+Bloxstrap/
+*.ps1
+*.bat
+*.cmd
+.vs/
+*.user
+*.suo
