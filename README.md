@@ -6,7 +6,7 @@
 
 <p align="center">РЎРІРѕР№ РєР°СЃС‚РѕРјРёР·РёСЂРѕРІР°РЅРЅС‹Р№ СЂРѕР±Р»РѕРєСЃ РєР»РёРµРЅС‚</p>
 
-<p align="center"><strong>V1.3.7 (H7kQ4nWp)</strong></p>
+<p align="center"><strong>V1.3.8 (R3nT8wKq)</strong></p>
 
 <p align="center">
   <a href="https://github.com/hakyzmain/Hakyzium/releases/latest">РЎРєР°С‡Р°С‚СЊ</a>
