@@ -1,2 +1,2 @@
-﻿1.3.17
-https://github.com/hakyzmain/Hakyzium/releases/download/v1.3.17/Hakyzium.exe
+﻿1.3.18
+https://github.com/hakyzmain/Hakyzium/releases/download/v1.3.18/Hakyzium.exe
